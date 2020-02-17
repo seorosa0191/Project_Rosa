@@ -12,8 +12,7 @@ Class project for Metis intro to data science
 
 ### 2. What data are you planning to use to answer that question?
 * Extracted data from Kaggle open data source
-* Brazilian E-Commerce Public Dataset by Olist)
-* (https://www.kaggle.com/olistbr/brazilian-ecommerce)
+* Brazilian E-Commerce Public Dataset by Olist (https://www.kaggle.com/olistbr/brazilian-ecommerce)
 	* Customers dataset
 	* Geolocations dataset
 	* Order items dataset
@@ -23,7 +22,7 @@ Class project for Metis intro to data science
 
 ### 3. What do you know about the data you're using so far?
 * The sales data contains transactions from Sept, 2016 to Oct, 2018
-** (Making an assumption that the business started that date)-?
+** Making an assumption that the business started that date -?
 
 
 
