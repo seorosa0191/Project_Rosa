@@ -6,8 +6,8 @@ Class project for Metis intro to data science
 	* How many transactions were made each year by month?
 	* How many dollar sales were generated each year by month?
 * Who are the best sellers by amount? by number of transactions?
-* Whare are the trends of top 5 best selling product type over the years?
-* Is there any customer geolocation where showed significant growth over the years?
+* What are the trends of top 5 best selling product type over the years?
+* Is there any customer geolocation that showed significant growth over the years?
 * How much sales can we expect to see in the rest of 2018 from the sales in 2016 and 2017?
 
 ### 2. What data are you planning to use to answer that question?
