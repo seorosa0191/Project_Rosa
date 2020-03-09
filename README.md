@@ -22,7 +22,6 @@ Class project for Metis intro to data science
 
 ### 3. What do you know about the data you're using so far?
 * The sales data contains transactions from Sept, 2016 to Oct, 2018
-** Making an assumption that the business started that date -?
 
 
 
